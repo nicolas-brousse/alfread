@@ -1,0 +1,16 @@
+{
+  "name": "justogether-alfred",
+  "version": "0.0.1",
+  "description": "Alfred bot for justogether Slack",
+  "main": "./alfred.js",
+  "scripts": {
+    "start": "node alfred.js"
+  },
+  "author": "",
+  "dependencies": {
+    "botkit": "^0.5.4"
+  },
+  "engines": {
+    "node": ">= 8.1.x"
+  }
+}
